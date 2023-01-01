@@ -17,4 +17,4 @@ We have two data sets: data_orders and data_offers, both being stored in a CSV f
 - The data_offers data set is a simple map with 2 columns:
          - order_gk - order number, associated with the same column from the orders data set
          - offer_id - ID of an offer
-        ![alt text](https://github.com/akashdasp/get_taxi_with_geographical_anlysis/blob/d56e347b43fce04649a5fbcdfe24ba81216c22c3/git_map_picture.JPG?raw=True)
+        ![alt text](https://github.com/akashdasp/get_taxi_with_geographical_anlysis/blob/d3ea256bb7fb621df738f5a78280ac769557e0c2/git_map_picture.jpg?raw=True)
